@@ -1,0 +1,2 @@
+def same_digits(a, b):
+  while a and b:
